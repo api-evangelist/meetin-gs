@@ -1,0 +1,57 @@
+{
+    "name": "Meetin.gs",
+    "description": "Meetin.gs is a web and mobile meeting organizer that helps professionals run better meetings in a smarter way. Sure-fire tools and a guided process bring the benefits of online collaboration to both online and offline meetings. Meetin.gs provides organ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28423-www-meetin-gs.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/meetin-gs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Meetin.gs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28423-www-meetin-gs.jpg",
+            "humanURL": "http:\/\/www.meetin.gs",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/meetin-gs-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/meetin-gs-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/meetin-gs"
+        },
+        {
+            "type": "Email",
+            "url": "info@meetin.gs"
+        },
+        {
+            "type": "Email",
+            "url": "takedown@meetin.gs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/meetin_gs"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.meetin.gs"
+        }
+    ]
+}
